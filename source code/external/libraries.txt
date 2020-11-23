@@ -1,0 +1,44 @@
+Libraries needed
+
+numpy,os,glob,tkinter,sklearn,PIL,pickle,random,matplotlib,cv2,pandas,keras
+
+All these commands can be installed by using python package manager (PIP), and some like tkinter are generally pre installed.
+
+For eg. pip install sklearn
+		pip install pandas
+		
+Also these libraries can be installed manually by going to the appropiate download links and choosing the correct one for your system (for some libraries we weren't able to 
+find exact links, hence we have provided links to websites which server nearly identical packages, often differing just by version.
+
+1. numpy
+https://pypi.org/project/numpy/#files
+
+2. pandas
+https://pypi.org/project/pandas/#files
+
+3. random
+https://pypi.org/project/random2/#files
+
+4. sklearn
+https://pypi.org/project/scikit-learn/#files
+
+5. matplotlib
+https://pypi.org/project/matplotlib/#files
+
+6. pickle
+https://pypi.org/project/pickle5/#files
+
+7. PIL
+https://pypi.org/project/Pillow/#files
+
+8. glob
+https://pypi.org/project/glob2/#files
+
+9. os
+https://pypi.org/project/os-sys/#files
+
+10. cv2
+https://pypi.org/project/opencv-python/#files
+
+11. Keras
+https://pypi.org/project/Keras/#files

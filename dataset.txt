@@ -1,0 +1,7 @@
+Dataset used
+
+We have used the CUISDE dataset it is publically available over here
+
+http://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/dlform.html
+
+After unzipping the dataset the file sizes would be 148.96 MB for authentic image set and 233.87MB for spliced image set. 
